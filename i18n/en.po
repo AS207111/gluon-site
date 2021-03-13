@@ -12,7 +12,7 @@ msgstr ""
 
 msgid "gluon-config-mode:welcome"
 msgstr ""
-"Welcome to the setup wizard of your new Freifunk Alpha Centauri node. Please "
+"Welcome to the setup wizard of your new Freifunk AS207111 node. Please "
 "fill out the following form and submit it."
 
 msgid "gluon-config-mode:domain"
@@ -72,7 +72,7 @@ msgstr ""
 
 msgid "gluon-config-mode:reboot"
 msgstr ""
-"<p>For more information about the Freifunk community on Alpha Centauri, have a "
+"<p>For more information about the Freifunk community on AS207111, have a "
 "look at <a href=\"https://alpha-centauri.freifunk.net/\" target=\"_blank\">our "
 "homepage</a>.</p>"
 "<p>To get back to this configuration interface, press the reset button for "
